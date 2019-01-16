@@ -20301,7 +20301,7 @@ cr.getObjectRefTable = function () { return [
 	cr.plugins_.Sprite.prototype.acts.SetAnimSpeed,
 	cr.system_object.prototype.cnds.Every,
 	cr.behaviors.Bullet.prototype.acts.SetGravity,
-	cr.plugins_.Touch.prototype.cnds.OnTapGesture,
+	cr.plugins_.Touch.prototype.cnds.IsInTouch,
 	cr.plugins_.Sprite.prototype.cnds.OnCreated,
 	cr.plugins_.Mouse.prototype.exps.X,
 	cr.plugins_.Mouse.prototype.exps.Y,
