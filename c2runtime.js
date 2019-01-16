@@ -20226,12 +20226,12 @@ cr.behaviors.wrap = function(runtime)
 }());
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Keyboard,
-	cr.plugins_.Particles,
 	cr.plugins_.Mouse,
-	cr.plugins_.Touch,
-	cr.plugins_.Sprite,
+	cr.plugins_.Particles,
 	cr.plugins_.TiledBg,
 	cr.plugins_.Text,
+	cr.plugins_.Sprite,
+	cr.plugins_.Touch,
 	cr.behaviors.wrap,
 	cr.behaviors.Bullet,
 	cr.behaviors.scrollto,
