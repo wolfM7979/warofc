@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1553072307
+#1553364348
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -19,6 +19,8 @@ images/ze5shdeff.png
 images/ecoineff.png
 images/e6deff.png
 images/e7deff.png
+images/e9deff.png
+images/e10deff.png
 images/tiledbackground.png
 images/abr-sheet0.png
 images/ab-sheet0.png
@@ -67,6 +69,9 @@ images/enemy6-sheet2.png
 images/enemy7-sheet0.png
 images/enemy7-sheet1.png
 images/enemy7-sheet2.png
+images/enemy8-sheet0.png
+images/enemy9-sheet0.png
+images/enemy10-sheet0.png
 images/player-sheet0.png
 images/player-sheet1.png
 images/player-sheet2.png
@@ -79,6 +84,15 @@ images/playstart-sheet0.png
 images/playstart4-sheet0.png
 images/kaylvl2-sheet0.png
 images/kaylvl3-sheet0.png
+images/kaysolid1-sheet0.png
+images/e8shoot-sheet0.png
+images/e8shoot-sheet1.png
+images/e8hshow-sheet0.png
+images/e8deff.png
+images/e9hshow-sheet0.png
+images/nerua-sheet0.png
+images/showneru-sheet0.png
+images/e10hshow-sheet0.png
 images/tabr-sheet0.png
 images/tabr-sheet1.png
 images/halthadd-sheet0.png
@@ -103,6 +117,9 @@ images/nur2-sheet2.png
 images/boxtabar-sheet0.png
 images/nur3-sheet0.png
 images/boxhsohow-sheet0.png
+images/e9shoot-sheet0.png
+images/e9shoot-sheet1.png
+images/e9shoot-sheet2.png
 images/halthbk-sheet0.png
 images/lefta-sheet0.png
 images/reteyd-sheet0.png
@@ -111,6 +128,7 @@ images/e-sheet0.png
 images/etabarn-sheet0.png
 images/etabarn-sheet1.png
 images/d-sheet0.png
+images/btnneru-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png
