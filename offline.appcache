@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1558262741
+#1558445986
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -35,6 +35,7 @@ images/tiledbackground4.png
 images/reny-sheet0.png
 images/logogame-sheet0.png
 images/powernema.png
+images/tiledbackground5.png
 images/h1-sheet0.png
 images/h-sheet0.png
 images/textplay-sheet0.png
@@ -56,7 +57,9 @@ images/lvl3-sheet0.png
 images/lodgame-sheet0.png
 images/soundend-sheet0.png
 images/soundstart-sheet0.png
+images/bklvl-sheet0.png
 images/tile-sheet0.png
+images/tile-sheet1.png
 images/m1-sheet0.png
 images/m2-sheet0.png
 images/ze4box-sheet0.png
@@ -82,6 +85,8 @@ images/enemy7-sheet2.png
 images/enemy8-sheet0.png
 images/enemy9-sheet0.png
 images/enemy10-sheet0.png
+images/enemy11-sheet0.png
+images/enemy11-sheet1.png
 images/player-sheet0.png
 images/player-sheet1.png
 images/player-sheet2.png
