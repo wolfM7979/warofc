@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1583076353
+#1583090970
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -9,6 +9,8 @@ images/tree-sheet0.png
 images/treemene-sheet0.png
 images/sang-sheet0.png
 images/sangmene-sheet0.png
+images/ahan-sheet0.png
+images/ahanmene-sheet0.png
 images/atouch-sheet0.png
 images/dtouch-sheet0.png
 images/wtouch-sheet0.png
@@ -30,18 +32,19 @@ images/btnkharidbuzk-sheet0.png
 images/btnkharidshaker-sheet0.png
 images/btnkharidsanjt-sheet0.png
 images/btnkharidsarbazku-sheet0.png
+images/buzk-sheet0.png
+images/shaker-sheet0.png
 images/sanjt-sheet0.png
 images/sarbazku-sheet0.png
 images/trtrfair-sheet0.png
 images/trtrfair-sheet1.png
-images/sanjtshotbaked-sheet0.png
-images/sarbazkushotbaked-sheet0.png
+images/trtrshotbked-sheet0.png
+images/bozkshotbaked-sheet0.png
+images/shakershotbaked-sheet0.png
 images/btnfroshsang-sheet0.png
 images/btnfroshcoin-sheet0.png
 images/btnfroshlvl-sheet0.png
 images/btnkharidtree-sheet0.png
-images/bozkfreeobj-sheet0.png
-images/shakerfreeobj-sheet0.png
 images/camerafreeobj-sheet0.png
 images/btnfreeobj-sheet0.png
 images/camerahome-sheet0.png
