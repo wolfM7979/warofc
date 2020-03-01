@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1582996719
+#1583076353
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -17,6 +17,7 @@ images/seve-sheet0.png
 images/load-sheet0.png
 images/hudbk.png
 images/shapbtn-sheet0.png
+images/home-sheet0.png
 images/abrz-sheet0.png
 images/camerashap-sheet0.png
 images/closshap-sheet0.png
@@ -43,6 +44,9 @@ images/bozkfreeobj-sheet0.png
 images/shakerfreeobj-sheet0.png
 images/camerafreeobj-sheet0.png
 images/btnfreeobj-sheet0.png
+images/camerahome-sheet0.png
+images/homebk.png
+images/warbk.png
 icon-16.png
 icon-32.png
 icon-114.png
