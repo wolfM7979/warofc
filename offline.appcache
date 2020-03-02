@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1583090970
+#1583154943
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -26,6 +26,7 @@ images/closshap-sheet0.png
 images/khatkesh-sheet0.png
 images/btnsoljer1-sheet0.png
 images/btnpeplyhome-sheet0.png
+images/btntankhome1-sheet0.png
 images/camerasoljer-sheet0.png
 images/btnkharidtrtr-sheet0.png
 images/btnkharidbuzk-sheet0.png
@@ -38,13 +39,21 @@ images/sanjt-sheet0.png
 images/sarbazku-sheet0.png
 images/trtrfair-sheet0.png
 images/trtrfair-sheet1.png
+images/tankfair-sheet0.png
+images/tankfair-sheet1.png
 images/trtrshotbked-sheet0.png
 images/bozkshotbaked-sheet0.png
 images/shakershotbaked-sheet0.png
+images/sanjtshotbaked-sheet0.png
+images/tankshotbaked-sheet0.png
+images/tank-sheet0.png
+images/btntank-sheet0.png
+images/cameratankhome-sheet0.png
 images/btnfroshsang-sheet0.png
 images/btnfroshcoin-sheet0.png
 images/btnfroshlvl-sheet0.png
 images/btnkharidtree-sheet0.png
+images/tankfreeobj-sheet0.png
 images/camerafreeobj-sheet0.png
 images/btnfreeobj-sheet0.png
 images/camerahome-sheet0.png
